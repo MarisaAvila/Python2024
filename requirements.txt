@@ -1,0 +1,9 @@
+dash
+dcc
+html
+dash_table
+dash.dependencies
+plotly.express
+pandas
+dash_bootstrap_components
+gunicorn
